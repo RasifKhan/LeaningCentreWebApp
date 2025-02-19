@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C3A4E7-F585-44E4-B7BF-9F22A842B779}|LearningCentreApi\\LearningCentreApi.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\learningcentreapi\\learningcentreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4C3A4E7-F585-44E4-B7BF-9F22A842B779}|LearningCentreApi\\LearningCentreApi.csproj|solutionrelative:learningcentreapi\\learningcentreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\learningcentreclientapp\\pages\\category\\categoryupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|solutionrelative:learningcentreclientapp\\pages\\category\\categoryupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\learningcentreclientapp\\pages\\category\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|solutionrelative:learningcentreclientapp\\pages\\category\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E27ABDC-7C77-4749-9EBE-2F567F8567AF}|DtoModel\\DtoModel.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\dtomodel\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E27ABDC-7C77-4749-9EBE-2F567F8567AF}|DtoModel\\DtoModel.csproj|solutionrelative:dtomodel\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\learningcentreclientapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|solutionrelative:learningcentreclientapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2165ED-9889-4981-9C93-24119B8C1C97}|DataAccess\\DataAccess.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2165ED-9889-4981-9C93-24119B8C1C97}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2165ED-9889-4981-9C93-24119B8C1C97}|DataAccess\\DataAccess.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\dataaccess\\migrations\\20250213063006_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2165ED-9889-4981-9C93-24119B8C1C97}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250213063006_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C3A4E7-F585-44E4-B7BF-9F22A842B779}|LearningCentreApi\\LearningCentreApi.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\learningcentreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4C3A4E7-F585-44E4-B7BF-9F22A842B779}|LearningCentreApi\\LearningCentreApi.csproj|solutionrelative:learningcentreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\learningcentreclientapp\\service\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A7A59F-B3A2-4D0F-9E15-82198B83DB2F}|LearningCentreClientApp\\LearningCentreClientApp.csproj|solutionrelative:learningcentreclientapp\\service\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B975B05E-FC7F-4634-B6EC-32484D0EE5D1}|BusinessLogic\\BusinessLogic.csproj|f:\\dot net practice 2025\\blazor\\techcentremanagement\\learningcentremanagementapp\\businesslogic\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B975B05E-FC7F-4634-B6EC-32484D0EE5D1}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryList.razor",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\Pages\\Category\\CategoryList.razor",
+              "RelativeDocumentMoniker": "LearningCentreClientApp\\Pages\\Category\\CategoryList.razor",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\Pages\\Category\\CategoryList.razor",
+              "RelativeToolTip": "LearningCentreClientApp\\Pages\\Category\\CategoryList.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T10:20:43.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryUpsert.razor",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\Pages\\Category\\CategoryUpsert.razor",
+              "RelativeDocumentMoniker": "LearningCentreClientApp\\Pages\\Category\\CategoryUpsert.razor",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\Pages\\Category\\CategoryUpsert.razor",
+              "RelativeToolTip": "LearningCentreClientApp\\Pages\\Category\\CategoryUpsert.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T10:19:06.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "LearningCentreClientApp\\_Imports.razor",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\_Imports.razor",
+              "RelativeToolTip": "LearningCentreClientApp\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T07:18:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\DtoModel\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DtoModel\\CategoryDTO.cs",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\DtoModel\\CategoryDTO.cs",
+              "RelativeToolTip": "DtoModel\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:43:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250213063006_FirstMigration.cs",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\DataAccess\\Migrations\\20250213063006_FirstMigration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250213063006_FirstMigration.cs",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\DataAccess\\Migrations\\20250213063006_FirstMigration.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250213063006_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:30:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:27:40.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LearningCentreApi\\appsettings.json",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreApi\\appsettings.json",
+              "RelativeToolTip": "LearningCentreApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T06:18:27.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\BusinessLogic\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\BusinessLogic\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "BusinessLogic\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:16:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\Service\\IService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "LearningCentreClientApp\\Service\\IService\\ICategoryService.cs",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreClientApp\\Service\\IService\\ICategoryService.cs",
+              "RelativeToolTip": "LearningCentreClientApp\\Service\\IService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:56:45.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearningCentreApi.csproj",
+              "DocumentMoniker": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreApi\\LearningCentreApi.csproj",
+              "RelativeDocumentMoniker": "LearningCentreApi\\LearningCentreApi.csproj",
+              "ToolTip": "F:\\Dot Net Practice 2025\\Blazor\\TechCentreManagement\\LearningCentreManagementApp\\LearningCentreApi\\LearningCentreApi.csproj",
+              "RelativeToolTip": "LearningCentreApi\\LearningCentreApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T04:35:21.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

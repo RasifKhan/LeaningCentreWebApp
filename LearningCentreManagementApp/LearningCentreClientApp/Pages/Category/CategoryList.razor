@@ -1,0 +1,81 @@
+﻿@page "/categories"
+@using DtoModel
+@using LearningCentreClientApp.Service.IService
+@inject ICategoryService CategoryService
+
+<div class="row mt-4">
+    <div class="col-6">
+        <h4 class="card-title text-info">Category List</h4>
+    </div>
+    <div class="col-4 offset-2">
+        <a href="categories/create" class="btn btn-primary form-control">Add New Category</a>
+    </div>
+    <div class="col-12 p-3">
+        @if (IsLoading)
+        {
+            <div class="text-center">
+                <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+        }
+        else if (categories?.Any() == true)
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var objCat in categories)
+                    {
+                        <tr>
+                            <td>@objCat.Name</td>
+                            <td>
+                                <NavLink href="@($"categories/edit/{objCat.Id}")" class="btn btn-primary">Edit</NavLink>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="alert alert-info">
+                No categories found.
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private List<CategoryDTO> categories;
+    private bool IsLoading { get; set; } = true;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCategories();
+    }
+
+    private async Task LoadCategories()
+    {
+        try
+        {
+            IsLoading = true;
+            categories = await CategoryService.GetAllCategories();
+        }
+        catch (Exception ex)
+        {
+            // You might want to add proper error handling here
+            Console.WriteLine($"Error loading categories: {ex.Message}");
+        }
+        finally
+        {
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}
